@@ -1,0 +1,11 @@
+# Ignorar todos os arquivos parquet
+*.parquet
+
+# Ignorar o .env
+.env
+
+# Ignorar o cache
+.cache
+
+# Ignorar o diretório do venv
+trab/
